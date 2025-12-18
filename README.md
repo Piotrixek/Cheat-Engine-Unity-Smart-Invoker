@@ -1,7 +1,6 @@
 # Unity Smart Invoker (Mono & IL2CPP)
 
 **Author:** Veni  
-**Discord:** ._.veni._.
 
 Lua tool for **Cheat Engine** designed to automate the process of finding Class Instances ("this" pointers) and invoking methods in Unity games. It works for both **Mono** and **IL2CPP** backends.
 
